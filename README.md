@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pooji-Chowdary
 - 👀 I’m interested in ...Artificial Intelligence and Machine Learning (AIML),Computer Vision
-- 🌱 I’m currently learning ...web development and cv 
+- 🌱 I’m currently learning ...web development and ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.linkedin.com/in/
 poojitha-jammula
